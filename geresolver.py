@@ -1,7 +1,6 @@
 import argparse
 import requests
 import sys
-import time
 import colorama
 
 colorama.init(autoreset=True)
