@@ -22,5 +22,5 @@ the target file should contain a list of emails (one per line) to be scanned.
 ## Screenshots
 ![options page](Screenshots/options.png)
 ![list mode](Screenshots/list_hunting.png)
-![oneoff mode](Screenshots/oneoff_found.png)
+![oneoff mode](Screenshots/oneoff_hunting.png)
 
